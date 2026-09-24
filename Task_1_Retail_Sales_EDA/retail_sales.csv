@@ -1,0 +1,62 @@
+Date,Customer ID,Gender,Age,Product Category,Product,Quantity,Price per Unit,Total Amount
+2024-01-03,C1001,Female,28,Electronics,Wireless Headphones,2,45,90
+2024-01-05,C1002,Male,35,Clothing,Denim Jacket,1,60,60
+2024-01-09,C1003,Female,22,Beauty,Skincare Set,3,25,75
+2024-01-12,C1004,Male,41,Electronics,Smartphone,1,650,650
+2024-01-18,C1005,Female,31,Home Decor,Table Lamp,2,35,70
+2024-01-23,C1006,Female,46,Clothing,Sneakers,1,80,80
+2024-01-28,C1007,Male,26,Electronics,Wireless Headphones,1,45,45
+2024-02-02,C1008,Female,38,Beauty,Perfume,2,55,110
+2024-02-07,C1009,Male,52,Home Decor,Wall Art,3,20,60
+2024-02-11,C1010,Female,29,Electronics,Smartphone,1,650,650
+2024-02-16,C1011,Male,44,Clothing,Cotton Shirt,2,30,60
+2024-02-24,C1012,Female,24,Beauty,Skincare Set,1,25,25
+2024-03-01,C1013,Male,33,Electronics,Laptop,1,900,900
+2024-03-08,C1014,Female,27,Clothing,Denim Jacket,2,60,120
+2024-03-14,C1015,Female,59,Home Decor,Table Lamp,1,35,35
+2024-03-21,C1016,Male,37,Electronics,Wireless Headphones,3,45,135
+2024-03-27,C1017,Female,42,Beauty,Perfume,1,55,55
+2024-04-03,C1018,Male,30,Clothing,Sneakers,2,80,160
+2024-04-10,C1019,Female,34,Electronics,Smartphone,2,650,1300
+2024-04-17,C1020,Male,49,Home Decor,Wall Art,1,20,20
+2024-04-25,C1021,Female,21,Beauty,Skincare Set,2,25,50
+2024-05-02,C1022,Male,55,Electronics,Laptop,1,900,900
+2024-05-09,C1023,Female,32,Clothing,Cotton Shirt,3,30,90
+2024-05-16,C1024,Female,26,Beauty,Perfume,2,55,110
+2024-05-24,C1025,Male,39,Home Decor,Table Lamp,2,35,70
+2024-05-30,C1026,Female,45,Electronics,Wireless Headphones,2,45,90
+2024-06-04,C1027,Male,28,Clothing,Sneakers,1,80,80
+2024-06-11,C1028,Female,36,Electronics,Smartphone,1,650,650
+2024-06-19,C1029,Male,47,Home Decor,Wall Art,4,20,80
+2024-06-26,C1030,Female,23,Beauty,Skincare Set,3,25,75
+2024-07-02,C1031,Male,61,Electronics,Laptop,1,900,900
+2024-07-09,C1032,Female,30,Clothing,Denim Jacket,1,60,60
+2024-07-15,C1033,Female,25,Beauty,Perfume,3,55,165
+2024-07-22,C1034,Male,43,Home Decor,Table Lamp,2,35,70
+2024-07-29,C1035,Female,39,Electronics,Wireless Headphones,4,45,180
+2024-08-04,C1036,Male,34,Clothing,Cotton Shirt,2,30,60
+2024-08-12,C1037,Female,48,Electronics,Smartphone,1,650,650
+2024-08-18,C1038,Male,29,Beauty,Skincare Set,2,25,50
+2024-08-25,C1039,Female,33,Home Decor,Wall Art,3,20,60
+2024-09-01,C1040,Male,57,Electronics,Laptop,1,900,900
+2024-09-08,C1041,Female,27,Clothing,Sneakers,2,80,160
+2024-09-14,C1042,Female,40,Beauty,Perfume,1,55,55
+2024-09-21,C1043,Male,31,Home Decor,Table Lamp,3,35,105
+2024-09-28,C1044,Female,22,Electronics,Wireless Headphones,2,45,90
+2024-10-03,C1045,Male,46,Clothing,Denim Jacket,1,60,60
+2024-10-10,C1046,Female,35,Electronics,Smartphone,2,650,1300
+2024-10-17,C1047,Male,53,Beauty,Skincare Set,2,25,50
+2024-10-24,C1048,Female,29,Home Decor,Wall Art,4,20,80
+2024-10-31,C1049,Male,38,Electronics,Laptop,1,900,900
+2024-11-04,C1050,Female,24,Clothing,Sneakers,3,80,240
+2024-11-11,C1051,Female,44,Beauty,Perfume,2,55,110
+2024-11-18,C1052,Male,36,Electronics,Wireless Headphones,3,45,135
+2024-11-25,C1053,Female,31,Home Decor,Table Lamp,2,35,70
+2024-11-29,C1054,Male,50,Electronics,Smartphone,2,650,1300
+2024-12-02,C1055,Female,26,Clothing,Denim Jacket,2,60,120
+2024-12-07,C1056,Male,42,Beauty,Skincare Set,3,25,75
+2024-12-12,C1057,Female,37,Electronics,Laptop,1,900,900
+2024-12-18,C1058,Male,28,Home Decor,Wall Art,5,20,100
+2024-12-22,C1059,Female,45,Electronics,Smartphone,1,650,650
+2024-12-27,C1060,Female,33,Clothing,Sneakers,2,80,160
+2024-12-30,C1061,Male,59,Beauty,Perfume,2,55,110
